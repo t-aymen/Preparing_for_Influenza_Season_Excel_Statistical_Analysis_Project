@@ -10,7 +10,7 @@ We have been hired as an analyst to assist a medical staffing agency that provid
 ## Data Source
 The <a href="https://wonder.cdc.gov/ucd-icd10.html">Influenza Deaths by Geography</a> dataset is provided by the Centers for Disease Control and Prevention and contains historical Influenza mortality counts for different age groups in the United States from 2009 to 2017. <br>
 
-The <ins>Census Population</ins> </a>dataset comes from the US Census Bureau and is provided by CareerFoundry as part of the Data Analytics Program (Afa). It contains population count estimates for different US counties by gender, age from 2009 to 2017. More information can be found <a href="https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-detail.html">here</a>.
+The <a href="https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-detail.html">Census Population</a> dataset comes from the US Census Bureau and is provided by CareerFoundry as part of the Data Analytics Program (AfA). It contains population count estimates for different US counties by gender, age from 2009 to 2017.
 
 ## Project Structure
 The project repository contains all the Excel workbooks pertaining to this analysis, as well as an Interim Report detailing the results of our Statistical Hypothesis Testing. The final storyboard presentation can be viewed on <a href="https://public.tableau.com/app/profile/aymen.touihri/viz/_PreparingforInfluenzaSeasonStoryboard_v2/DataStory">Tableau Public </a>.
